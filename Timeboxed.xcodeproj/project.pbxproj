@@ -14,6 +14,7 @@
 		E9015C11238EA8C0007DDDB5 /* Timeboxed.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E9015C0F238EA8C0007DDDB5 /* Timeboxed.xcdatamodeld */; };
 		E9015C13238EA8C3007DDDB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9015C12238EA8C3007DDDB5 /* Assets.xcassets */; };
 		E9015C16238EA8C3007DDDB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9015C14238EA8C3007DDDB5 /* LaunchScreen.storyboard */; };
+		E93EDD372390731E007F50DC /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93EDD362390731E007F50DC /* ToDoItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E9015C12238EA8C3007DDDB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9015C15238EA8C3007DDDB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9015C17238EA8C3007DDDB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E93EDD362390731E007F50DC /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				E9015C06238EA8C0007DDDB5 /* AppDelegate.swift */,
 				E9015C08238EA8C0007DDDB5 /* SceneDelegate.swift */,
 				E9015C0A238EA8C0007DDDB5 /* ViewController.swift */,
+				E93EDD362390731E007F50DC /* ToDoItem.swift */,
 				E9015C0C238EA8C0007DDDB5 /* Main.storyboard */,
 				E9015C12238EA8C3007DDDB5 /* Assets.xcassets */,
 				E9015C14238EA8C3007DDDB5 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				E9015C0B238EA8C0007DDDB5 /* ViewController.swift in Sources */,
 				E9015C07238EA8C0007DDDB5 /* AppDelegate.swift in Sources */,
+				E93EDD372390731E007F50DC /* ToDoItem.swift in Sources */,
 				E9015C09238EA8C0007DDDB5 /* SceneDelegate.swift in Sources */,
 				E9015C11238EA8C0007DDDB5 /* Timeboxed.xcdatamodeld in Sources */,
 			);
